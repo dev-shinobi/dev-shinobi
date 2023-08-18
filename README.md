@@ -4,7 +4,7 @@
 
 
 <h2><u>Goals</u></h2>
-<p>my ultimate goal is to become a full stack developer that can work elegantly with a of team like minded developers to create beautiful and innovative web applications that provide real value to users , and to achieve this i am constantly adding more skills and information to my knowledge base and evolving .</p> 
+<p>my ultimate goal is to become a full stack developer that can work elegantly with a team of like minded developers to create beautiful and innovative web applications that provide real value to users , and to achieve this i am constantly adding more skills and information to my knowledge base and evolving .</p> 
 
 <h2><u>Skills and experiences </u></h2>
 <p> i have honed my skills in Html , css , javascript , vanilla Php and various javascript frameworks like angular , react , node.js ,  bootstrap . I am also very skilled with UI/UX designing using Figma . I spend my day time freelancing , researching , studying or coming up with new web designs and implementing them and my night time i spend completing related web developers challenges on different challenge websites as you will find on my git repositories . </p>
