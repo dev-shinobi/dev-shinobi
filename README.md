@@ -1,5 +1,5 @@
 <h1>Hey !! welcome to my github profile .</h1>
-  <span>my name is Dennis Chiagozem Martins .O , in the tech world i'm called Dev-shinobi 😎 , i am a college graduate with a BSc in Computer information systems, i am also a frontend developer and an aspiring AWS certified Cloud Practitioner with the goal of becoming a fullstack developer ,  i have a passion for creating dynamic and detailed frontend user friendly interfaces , i also have a vast amount of knowledge in backend development which i am currently working on adding more skills and  knowledge in that aspect . </span>
+  <span>my name is Dennis Chiagozem Martins .O , in the tech world i'm called Dev-shinobi 😎 , i am a college graduate with a BSc in Computer information systems, i am also a frontend developer with the goal of becoming a fullstack developer ,  i have a passion for creating dynamic and detailed frontend user friendly interfaces , i also have a vast amount of knowledge in backend development which i am currently working on adding more skills and  knowledge in that aspect . </span>
   <span><img align="right" title="a title" alt="Alt text" src="dev.svg"></span>
 
 
